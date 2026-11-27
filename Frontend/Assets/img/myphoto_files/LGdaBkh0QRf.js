@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("IGDSCropLandscapePanoOutlineIcon.react",["IGDSSVGIconBase.react","react","react-compiler-runtime"],(function(t,n,r,o,a,i,l){"use strict";var e,s=e||(e=o("react"));function u(e){var t=o("react-compiler-runtime").c(3),n;t[0]===Symbol.for("react.memo_cache_sentinel")?(n=s.jsx("path",{d:"M19 20H5a4.004 4.004 0 0 1-4-4V8a4.004 4.004 0 0 1 4-4h14a4.004 4.004 0 0 1 4 4v8a4.004 4.004 0 0 1-4 4ZM5 6a2.002 2.002 0 0 0-2 2v8a2.002 2.002 0 0 0 2 2h14a2.002 2.002 0 0 0 2-2V8a2.002 2.002 0 0 0-2-2Z"}),t[0]=n):n=t[0];var a;return t[1]!==e?(a=s.jsx(r("IGDSSVGIconBase.react"),babelHelpers.extends({},e,{viewBox:"0 0 24 24",children:n})),t[1]=e,t[2]=a):a=t[2],a}var c=s.memo(u);l.default=c}),98);
